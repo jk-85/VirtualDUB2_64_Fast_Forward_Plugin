@@ -19,4 +19,3 @@ You also can click on the input or output pane to start or stop the fast forward
 
 Step 6 will be tried automatically via Visual Studio after successful build.
 It will be copied into the path "C:\Program Files\VirtualDUB2\plugins64\".
-8. Restart VirtualDub2.
