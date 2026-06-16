@@ -3,6 +3,10 @@
 Move fast forward in your video. You also can click on the input or
 output pane to start or stop the fast forward.
 
+<img width="271" height="154" alt="pic1" src="https://github.com/user-attachments/assets/53f11e55-897c-4a18-82b9-e2eca131e9b8" />
+<br>
+<img width="432" height="301" alt="pic2" src="https://github.com/user-attachments/assets/4a61ffe6-ed7d-4f2e-b3a7-9bb81c8c91b1" />
+
 ## Build
 
 1. Open `FastScan500.sln` in Visual Studio 2022.
