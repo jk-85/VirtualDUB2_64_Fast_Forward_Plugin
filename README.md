@@ -1,7 +1,7 @@
 # Fast Scan 500 / 2000 / 3000 fps toolbar plug-in for VirtualDub2
 
 Add additional buttons to your VirtualDUB2:
-Move fast forward in your video with one click.
+Move fast forward in your video with one click in three different speeds.
 You also can click on the input or output pane to start or stop the fast forward process.
 
 <img width="271" height="154" alt="pic1" src="https://github.com/user-attachments/assets/53f11e55-897c-4a18-82b9-e2eca131e9b8" />
